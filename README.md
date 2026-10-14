@@ -14,4 +14,4 @@ using BonitoBook
 BonitoBook.book("julia-intro-topics.md")
 ```
 
-The book will open in your browser.
+The book will open in your browser. The first time this will take one or two minutes.
