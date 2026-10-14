@@ -3,7 +3,8 @@ Introduce the basic concepts of the Julia programming language
 
 To read and examine the BonitoBook-book
 - clone the repository
-- change into the directory
+- start Julia
+- change to the directory
 - then execute
 
 ``` julia
